@@ -1,5 +1,6 @@
 Dream-Project
 # Beskydské trasy na kole
+![Dream-Project](kolo.jpg)
 ## **Project overview**
 **Objectives:**
 This project aims to show bicycle routes where you can explore beauties of Beskydy mountains. It is devided into three categories: 
