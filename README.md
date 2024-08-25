@@ -1,4 +1,4 @@
-Dream-Project
+
 # Beskydské trasy na kole
 ![Dream-Project](kolo.jpg)
 ## **Project overview**
